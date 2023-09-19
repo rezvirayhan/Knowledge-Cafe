@@ -1,52 +1,52 @@
 [
     {
-      "Id": 12345,
+      "Id": 1,
       "Cover": "https://images.unsplash.com/photo-1592496431122-2349e0fbc666?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Ym9vayUyMGNvdmVyfGVufDB8MHwwfHx8Mg%3D%3D&auto=format&fit=crop&w=500&q=60",
       "Title": "The Enchanted Forest",
       "Author": "Sarah Thompson",
       "Author_img": "https://media.istockphoto.com/id/487336206/photo/woman-with-laptop-at-cafe.jpg?s=612x612&w=0&k=20&c=U7J_qIx8ynvwPsUJC9dIsw64o9o4TNlc7l7ASXV8LY0=",
       "Posted_date": "2023-08-15",
-      "Reading_time": 120, 
+      "Reading_time": 4, 
       "hashtag": "#FantasyAdventure"
     },
     {
-      "Id": 67890,
+      "Id": 2,
       "Cover": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Ym9vayUyMGNvdmVyfGVufDB8MHwwfHx8Mg%3D%3D&auto=format&fit=crop&w=500&q=60",
       "Title": "Secrets of the Cosmos",
       "Author": "John Smith",
       "Author_img": "https://images.freeimages.com/images/large-previews/a0a/arab-man-5-1555458.jpg?fmt=webp&w=350",
       "Posted_date": "2023-09-02",
-      "Reading_time": 210, 
+      "Reading_time": 6, 
       "hashtag": "#ScienceFiction"
     },
     {
-      "Id": 54321,
+      "Id": 3,
       "Cover": "https://images.unsplash.com/photo-1612969308146-066d55f37ccb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Ym9vayUyMGNvdmVyfGVufDB8MHwwfHx8Mg%3D%3D&auto=format&fit=crop&w=500&q=60",
       "Title": "Mystery at Moonlight Manor",
       "Author": "Emily Davis",
       "Author_img": "https://media.istockphoto.com/id/1337293756/photo/a-noble-young-man-in-an-old-suit-with-a-round-spanish-collar.jpg?s=612x612&w=0&k=20&c=WN3fOue6-fxVtMobXjTtu1lsvjlr8_OTMA7Sswvs7Ho=",
       "Posted_date": "2023-07-20",
-      "Reading_time": 90, 
+      "Reading_time": 9, 
       "hashtag": "#Mystery"
     },
     {
-      "Id": 98765,
+      "Id": 4,
       "Cover": "https://images.unsplash.com/photo-1515098506762-79e1384e9d8e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Ym9vayUyMGNvdmVyfGVufDB8MHwwfHx8Mg%3D%3D&auto=format&fit=crop&w=500&q=60",
       "Title": "The Time Traveler's Journal",
       "Author": "Michael Anderson",
       "Author_img": "https://media.istockphoto.com/id/660677774/photo/woman-writing-studying-working-planning-concept.jpg?s=612x612&w=0&k=20&c=xqKP14Et9Cc3MldEoEYLopXaaZ3f3HZkW0XsTjNiaoI=",
       "Posted_date": "2023-08-05",
-      "Reading_time": 240, 
+      "Reading_time": 1, 
       "hashtag": "#TimeTravel"
     },
     {
-      "Id": 24680,
+      "Id": 5,
       "Cover": "https://images.unsplash.com/photo-1612969307974-ee4e57d2d5a7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGJvb2slMjBjb3ZlcnxlbnwwfDB8MHx8fDI%3D&auto=format&fit=crop&w=500&q=60",
       "Title": "Recipes from Around the World",
       "Author": "Maria Rodriguez",
       "Author_img": "https://media.istockphoto.com/id/915893752/photo/close-up-rear-view-of-young-hardworking-handsome-high-school-student-holding-a-pencil-and.jpg?s=612x612&w=0&k=20&c=jc2RSKyD-0J-r8LTlgtCEatDh5uaXFZ_S2mFHv1hfSI=",
       "Posted_date": "2023-09-12",
-      "Reading_time": 60, 
+      "Reading_time": 2, 
       "hashtag": "#Cookbook"
     }
   ]
